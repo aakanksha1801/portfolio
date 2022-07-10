@@ -95,10 +95,10 @@ export const educationInfo = [
 		schoolName: "DELHI TECHNOLOGICAL UNIVERSITY",
 		subHeader: "B.Tech in Information Technology",
 		duration: "Dec 2020 - Current date",
-		desc: "Currently Student in DTU,  Full stack web developer and exploring more in tech and real world ",
+		desc: "Currently Student in DTU,  Full stack web developer and exploring more in tech and real world. ",
 		descBullets: [
-			"Active Member of Rotaract Club",
-			" Exploring more in Technology",
+			"Active Member of Rotaract Club.",
+			" Exploring more in Technology.",
 		],
 	},
 ];
@@ -110,7 +110,7 @@ export const experience = [
 		company: "Morgan Stanley",
 		companylogo: "/img/icons/common/morganstanley.jpg",
 		date: " 5 Jun 2022 – 14 Jun 2022",
-		desc: "#CODETOGIVE Hackathon, Built a chatbot using the rasa framework, a tool for custom AI chatbots using Python and natural language understanding (NLU) which is button based chatbot help to give choices and answer questions asked by the user with experienced gained while training the model",
+		desc: "#CODETOGIVE Hackathon, Built a chatbot using the rasa framework, a tool for custom AI chatbots using Python and natural language understanding (NLU) which is button based chatbot help to give choices and answer questions asked by the user with experienced gained while training the model.",
 	},
 	{
 		role: "Web developmenr Intern",
@@ -135,14 +135,14 @@ export const experience = [
 export const projects = [
 	{
 		name: "Blog app website",
-		desc: "With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.",
+		desc: " Blog app website, write your own thoughts and express yourself. Catergories according to your interest post with CRUD operations. Post pictures and write your own blogs.",
 		github: "https://github.com/aakanksha1801/blog.website",
 		link: "",
 	},
 	
 	{
 		name: "Textutils",
-		desc: "Here you will find amazing tips about health, beauty, and modern-day life.",
+		desc: "Here you will convert alphabets into Uppercase or lowercase, can remove extra space and copy text. You can also see previews and time taken to read that paragraph.",
 		 github: "https://github.com/aakanksha1801/textutils",
 		link: "",
 	},
