@@ -1,0 +1,80 @@
+{
+  "index.js -> ../components/GithubProfileCard": {
+    "id": 3546,
+    "files": [
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/546.042579f1fab0463c.js"
+    ]
+  },
+  "index.js -> ../components/Navigation": {
+    "id": 9106,
+    "files": [
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/12.54f6a7476170825f.js",
+      "static/chunks/106.3ac3b93bbe9cd643.js"
+    ]
+  },
+  "index.js -> ../containers/Education": {
+    "id": 5184,
+    "files": [
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/184.397c6fe708acc224.js"
+    ]
+  },
+  "index.js -> ../containers/Experience": {
+    "id": 7280,
+    "files": [
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/280.2e082fcb74d2646e.js"
+    ]
+  },
+  "index.js -> ../containers/Greetings": {
+    "id": 9686,
+    "files": [
+      "static/chunks/ea88be26.cdb77bd223491e40.js",
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/464.5d32f6197a1ea75a.js",
+      "static/chunks/686.fdd167a21b722c5d.js"
+    ]
+  },
+  "index.js -> ../containers/Proficiency": {
+    "id": 3859,
+    "files": [
+      "static/chunks/ea88be26.cdb77bd223491e40.js",
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/464.5d32f6197a1ea75a.js",
+      "static/chunks/859.f41b9184e7d48aff.js"
+    ]
+  },
+  "index.js -> ../containers/Projects": {
+    "id": 9295,
+    "files": [
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/295.bb126ab42ed6594d.js"
+    ]
+  },
+  "index.js -> ../containers/Skills": {
+    "id": 7660,
+    "files": [
+      "static/chunks/ea88be26.cdb77bd223491e40.js",
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/464.5d32f6197a1ea75a.js",
+      "static/chunks/12.54f6a7476170825f.js",
+      "static/chunks/784.3fc47eebf40bd843.js",
+      "static/chunks/660.933f87e74228468f.js"
+    ]
+  },
+  "index.js -> ../containers/ZFeedbacks": {
+    "id": 7754,
+    "files": [
+      "static/chunks/624.772232c4d99bebe8.js",
+      "static/chunks/367.abed8517667edcab.js",
+      "static/chunks/754.d594dc337015edbb.js"
+    ]
+  }
+}
